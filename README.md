@@ -7,4 +7,6 @@ This simple STL repositions the elastic bands off of the ears. This isn't new. W
 
 The design of this is intentionally thin for a comfortable flex around the head. It is sufficiently strong to hold the tension of the elastic. Since it is reusable, medical and health care facilities need equipment that can be cleaned. As such I recommend you print this in PETG as it has a higher glass temp than PLA. It's important then that your extrusion be on point so the hooks are firmly attached to the flat wrapping piece and all the lines thoroughly adhered to each other.
 
+It is worn on the back of your head with the round part to the top and the flat part resting against the nape of your neck. The earloop elastic can use or disregard the middle hook as you choose.
+
 Designed in Blender
